@@ -1,0 +1,12 @@
+- id: MK-024
+  titulo: O Sussurro Invisível
+  categoria: fundamentos
+  enigma: Sem ninguém ver, uma mensagem foi enviada direto ao coração do sistema.
+    Em silêncio, a ordem foi cumprida.
+  solucao: 'Ilustra a trap: uma interrupção de software que invoca rotinas do sistema
+    operacional sem interação visual ou direta do usuário.'
+  conceitos:
+  - interrupção
+  - trap
+  referencias: []
+  autoria: []

@@ -1,0 +1,11 @@
+- id: MK-002
+  titulo: Os Gêmeos Diferentes
+  categoria: processos
+  enigma: Nasceram juntos, com o mesmo corpo, mas agiram de formas opostas.
+  solucao: Chamada fork() criou dois processos com o mesmo código inicial, mas seguiram
+    caminhos diferentes.
+  conceitos:
+  - processo
+  - fork()
+  referencias: []
+  autoria: []

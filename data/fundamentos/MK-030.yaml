@@ -1,0 +1,11 @@
+- id: MK-030
+  titulo: O Coração Encolhido
+  categoria: fundamentos
+  enigma: Ele entregou todos os seus poderes aos outros, mantendo para si apenas o
+    necessário para que tudo conversasse.
+  solucao: 'Estrutura de micronúcleo (microkernel): o núcleo do SO é mínimo, e a maioria
+    das funções roda como processos separados, com comunicação controlada pelo kernel.'
+  conceitos:
+  - processo
+  referencias: []
+  autoria: []

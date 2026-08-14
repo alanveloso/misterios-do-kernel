@@ -1,0 +1,12 @@
+- id: MK-020
+  titulo: O Guardião da Fronteira
+  categoria: sincronizacao
+  enigma: Ele vigiava a entrada, permitindo que apenas um por vez atravessasse a linha
+    do mundo compartilhado.
+  solucao: Representa um mecanismo de exclusão mútua protegendo a região crítica usada
+    na comunicação entre processos.
+  conceitos:
+  - processo
+  - exclusão mútua
+  referencias: []
+  autoria: []

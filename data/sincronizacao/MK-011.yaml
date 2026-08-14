@@ -1,0 +1,12 @@
+- id: MK-011
+  titulo: A Porta Invisível
+  categoria: sincronizacao
+  enigma: Para entrar, era preciso esperar que alguém saísse. Mas às vezes, só o silêncio
+    respondia.
+  solucao: 'Essa é uma representação do semáforo com valor 0: nenhum recurso está
+    disponível, então o processo dorme esperando um up().'
+  conceitos:
+  - processo
+  - semáforo
+  referencias: []
+  autoria: []

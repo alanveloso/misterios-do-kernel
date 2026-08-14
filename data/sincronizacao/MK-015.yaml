@@ -1,0 +1,12 @@
+- id: MK-015
+  titulo: O Cofre com Três Chaves
+  categoria: sincronizacao
+  enigma: Para abrir o cofre, era preciso rodar três chaves na ordem certa. Cada uma
+    controlava uma parte.
+  solucao: 'Produtor/Consumidor com três semáforos: mutex, full e empty, controlando
+    acesso, ocupação e disponibilidade no buffer.'
+  conceitos:
+  - semáforo
+  - mutex
+  referencias: []
+  autoria: []

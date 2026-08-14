@@ -1,0 +1,11 @@
+- id: MK-010
+  titulo: A Lembrança Compartilhada
+  categoria: sincronizacao
+  enigma: Ele confiava em suas ideias, até que alguém as mudou sem aviso. Tudo saiu
+    errado.
+  solucao: Threads acessam a mesma memória; uma alterou uma variável global usada
+    pela outra.
+  conceitos:
+  - thread
+  referencias: []
+  autoria: []

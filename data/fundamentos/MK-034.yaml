@@ -1,0 +1,10 @@
+- id: MK-034
+  titulo: O Guardião das Palavras
+  categoria: fundamentos
+  enigma: Comandos eram sussurrados. Ele ouvia, interpretava e agia, sem jamais questionar.
+  solucao: Representa o interpretador de comandos (como JCL), que permite a interação
+    textual entre usuário e SO.
+  conceitos:
+  - interpretador de comandos
+  referencias: []
+  autoria: []

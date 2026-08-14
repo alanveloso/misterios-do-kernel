@@ -1,0 +1,12 @@
+- id: MK-027
+  titulo: O Monarca Solitário
+  categoria: fundamentos
+  enigma: Tudo ao redor estava parado. Ele governava sozinho, sem partilhar seu trono
+    com ninguém.
+  solucao: Refere-se ao Sistema Operacional monoprogramado (monotarefa), onde apenas
+    um programa é executado por vez, utilizando todos os recursos.
+  conceitos:
+  - monoprogramação
+  - monotarefa
+  referencias: []
+  autoria: []

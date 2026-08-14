@@ -1,0 +1,10 @@
+- id: MK-008
+  titulo: O Sono Programado
+  categoria: threads
+  enigma: Sabia o que tinha que fazer, mas decidiu descansar por um tempo antes de
+    continuar.
+  solucao: A thread entrou em sleep, aguardando um tempo antes de retomar.
+  conceitos:
+  - thread
+  referencias: []
+  autoria: []

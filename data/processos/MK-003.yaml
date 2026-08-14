@@ -1,0 +1,11 @@
+- id: MK-003
+  titulo: A Missão Fracassada
+  categoria: processos
+  enigma: Ele tentou começar, mas o que procurava não existia. Morreu antes mesmo
+    de nascer.
+  solucao: O processo tentou executar um programa cujo arquivo não existia, falhando
+    no início.
+  conceitos:
+  - processo
+  referencias: []
+  autoria: []

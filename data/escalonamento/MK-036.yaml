@@ -1,0 +1,11 @@
+- id: MK-036
+  titulo: A Dança dos Turnos
+  categoria: escalonamento
+  enigma: Enquanto um descansava, o outro se movia. Nenhum dançava ao mesmo tempo,
+    mas todos seguiam a música do mesmo maestro.
+  solucao: Representa os Sistemas Operacionais multiprogramáveis, que alternam entre
+    vários processos para otimizar o uso da CPU.
+  conceitos:
+  - processo
+  referencias: []
+  autoria: []

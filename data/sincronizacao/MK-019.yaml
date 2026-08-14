@@ -1,0 +1,10 @@
+- id: MK-019
+  titulo: O Eco Desalinhado
+  categoria: sincronizacao
+  enigma: Uma mensagem foi enviada. A resposta chegou, mas o emissor já tinha partido.
+  solucao: Problema de sincronização entre processos que se comunicam. Um processo
+    envia mensagem, mas não há sincronização adequada de recebimento.
+  conceitos:
+  - processo
+  referencias: []
+  autoria: []

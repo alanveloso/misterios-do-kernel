@@ -1,0 +1,12 @@
+- id: MK-033
+  titulo: A Máquina em Camadas
+  categoria: fundamentos
+  enigma: Parecia uma só, mas escondia muitos níveis. Cada camada escondia o caos
+    da anterior.
+  solucao: Refere-se à máquina multinível, conceito em que o SO abstrai o hardware
+    em múltiplas camadas de complexidade.
+  conceitos:
+  - máquina multinível
+  - abstração
+  referencias: []
+  autoria: []

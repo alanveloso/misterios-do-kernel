@@ -1,0 +1,11 @@
+- id: MK-028
+  titulo: O Lote Silencioso
+  categoria: fundamentos
+  enigma: Eles chegaram juntos, mas nenhum falou durante o caminho. Apenas seguiram
+    a fila, um por um.
+  solucao: 'Sistema batch: conjunto de jobs executados sequencialmente sem interação
+    com o usuário.'
+  conceitos:
+  - batch
+  referencias: []
+  autoria: []

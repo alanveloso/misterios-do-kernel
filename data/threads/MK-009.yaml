@@ -1,0 +1,10 @@
+- id: MK-009
+  titulo: O Grande Ilusionista
+  categoria: threads
+  enigma: Ele parecia solitário, mas escondia múltiplas consciências em seu interior.
+  solucao: Threads em modo usuário são invisíveis ao kernel, que vê apenas um processo.
+  conceitos:
+  - processo
+  - thread
+  referencias: []
+  autoria: []

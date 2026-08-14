@@ -1,0 +1,12 @@
+- id: MK-014
+  titulo: A Fila Silenciosa
+  categoria: sincronizacao
+  enigma: Um a um, todos aguardavam na fila invisível. Só avançavam quando chamados
+    pelo sinal certo.
+  solucao: 'Implementação de semáforo com fila de espera: processos dormem em fila
+    até que up() os acorde.'
+  conceitos:
+  - processo
+  - semáforo
+  referencias: []
+  autoria: []

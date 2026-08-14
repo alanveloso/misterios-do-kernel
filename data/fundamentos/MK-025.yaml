@@ -1,0 +1,11 @@
+- id: MK-025
+  titulo: O Grito da Máquina
+  categoria: fundamentos
+  enigma: Sem ser chamado, ele interrompeu tudo. Não era um erro, mas exigia atenção
+    imediata.
+  solucao: 'Interrupção de hardware: um dispositivo externo envia sinal ao processador
+    para interromper o fluxo atual e executar uma rotina especial.'
+  conceitos:
+  - interrupção
+  referencias: []
+  autoria: []

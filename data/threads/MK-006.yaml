@@ -1,0 +1,12 @@
+- id: MK-006
+  titulo: As Três Vozes Invisíveis
+  categoria: threads
+  enigma: Um só corpo, três mentes, cada uma em sua tarefa, mas unidas por um mesmo
+    mundo.
+  solucao: Três threads em um mesmo processo, com pilhas independentes e espaço de
+    endereçamento compartilhado.
+  conceitos:
+  - processo
+  - thread
+  referencias: []
+  autoria: []

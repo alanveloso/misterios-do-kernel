@@ -1,0 +1,11 @@
+- id: MK-023
+  titulo: A Voz do Núcleo
+  categoria: fundamentos
+  enigma: Ele fez um pedido. Uma voz poderosa atendeu e, sem que percebesse, tudo
+    mudou ao seu redor.
+  solucao: Chamadas de sistema mudam o modo de operação do processo, levando-o ao
+    modo kernel onde o sistema operacional executa serviços privilegiados.
+  conceitos:
+  - processo
+  referencias: []
+  autoria: []

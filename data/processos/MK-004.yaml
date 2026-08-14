@@ -1,0 +1,9 @@
+- id: MK-004
+  titulo: O Silêncio Repentino
+  categoria: processos
+  enigma: Sem aviso, ele desapareceu. Nem erro, nem despedida. Apenas silêncio.
+  solucao: Outro processo encerrou forçadamente este com kill ou TerminateProcess.
+  conceitos:
+  - processo
+  referencias: []
+  autoria: []

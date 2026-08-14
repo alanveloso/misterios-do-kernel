@@ -1,0 +1,11 @@
+- id: MK-037
+  titulo: O Espelho Camuflado
+  categoria: virtualizacao
+  enigma: Era apenas um reflexo, mas cada reflexo acreditava ser real. Cada um vivia
+    isolado, com seus próprios sentidos e limites.
+  solucao: 'Estrutura de Máquina Virtual: várias VMs independentes simulam instâncias
+    completas do hardware.'
+  conceitos:
+  - máquina virtual
+  referencias: []
+  autoria: []

@@ -1,0 +1,12 @@
+- id: MK-029
+  titulo: O Castelo de Camadas
+  categoria: fundamentos
+  enigma: Cada andar cuidava do seu próprio segredo, sem precisar olhar para baixo.
+    Só o topo sabia do mundo externo.
+  solucao: 'Estrutura de camadas: o SO é dividido hierarquicamente, com cada camada
+    isolada das complexidades das camadas inferiores.'
+  conceitos:
+  - camadas
+  - abstração
+  referencias: []
+  autoria: []

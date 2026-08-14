@@ -1,0 +1,12 @@
+- id: MK-031
+  titulo: O Tradutor Silencioso
+  categoria: fundamentos
+  enigma: Entre o humano e a máquina, havia alguém que falava duas línguas. Ele nunca
+    criava, apenas interpretava.
+  solucao: Representa o Sistema Operacional como interface entre o usuário e o hardware.
+    Ele traduz comandos de alto nível em ações executáveis.
+  conceitos:
+  - interface
+  - abstração de hardware
+  referencias: []
+  autoria: []

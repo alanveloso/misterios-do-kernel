@@ -1,0 +1,10 @@
+- id: MK-007
+  titulo: O Operário Silencioso
+  categoria: threads
+  enigma: Ele recebia instruções sem parar e sempre sabia o que fazer, mesmo sem supervisão.
+  solucao: Threads operárias em um servidor web, cada uma atendendo requisições em
+    paralelo.
+  conceitos:
+  - thread
+  referencias: []
+  autoria: []

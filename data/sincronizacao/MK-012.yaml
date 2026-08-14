@@ -1,0 +1,14 @@
+- id: MK-012
+  titulo: O Guardião do Recurso
+  categoria: sincronizacao
+  enigma: Ele mantinha as chaves de acesso. Só entregava uma de cada vez, e nunca
+    se distraía.
+  solucao: Um semáforo binário (mutex), garantindo exclusão mútua. Somente um processo
+    por vez entra na região crítica.
+  conceitos:
+  - processo
+  - semáforo
+  - mutex
+  - exclusão mútua
+  referencias: []
+  autoria: []

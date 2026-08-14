@@ -1,0 +1,13 @@
+- id: MK-017
+  titulo: A Corrida Invisível
+  categoria: sincronizacao
+  enigma: Dois corredores partiram para o mesmo destino. Nenhum sabia da existência
+    do outro. No final, algo se perdeu.
+  solucao: Dois processos acessaram uma variável compartilhada sem exclusão mútua,
+    gerando uma condição de corrida (race condition).
+  conceitos:
+  - processo
+  - exclusão mútua
+  - race condition
+  referencias: []
+  autoria: []

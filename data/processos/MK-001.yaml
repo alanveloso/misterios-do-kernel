@@ -1,0 +1,11 @@
+- id: MK-001
+  titulo: O Eterno Esperador
+  categoria: processos
+  enigma: Ele começou sua jornada, mas parou no meio do caminho esperando por algo
+    que nunca veio.
+  solucao: O processo ficou no estado bloqueado, aguardando um evento externo que
+    nunca ocorreu.
+  conceitos:
+  - processo
+  referencias: []
+  autoria: []

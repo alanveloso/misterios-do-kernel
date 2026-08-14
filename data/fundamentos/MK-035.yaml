@@ -1,0 +1,12 @@
+- id: MK-035
+  titulo: A Linha do Tempo Fragmentada
+  categoria: fundamentos
+  enigma: Antes, tudo era um. Depois, dividiram-se em eras. Em cada uma, uma nova
+    forma de pensar surgiu.
+  solucao: Resume o histórico dos SOs, desde a 1ª geração (sem SOs), passando por
+    batch, time-sharing, micros, até a computação ubíqua.
+  conceitos:
+  - histórico de SOs
+  - gerações de sistemas operacionais
+  referencias: []
+  autoria: []

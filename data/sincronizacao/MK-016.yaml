@@ -1,0 +1,13 @@
+- id: MK-016
+  titulo: O Guardião do Templo
+  categoria: sincronizacao
+  enigma: Só um podia entrar por vez. Os outros esperavam em silêncio até que o espaço
+    sagrado estivesse vazio.
+  solucao: Monitor — estrutura onde apenas um processo pode estar ativo por vez; garante
+    exclusão mútua automaticamente.
+  conceitos:
+  - processo
+  - exclusão mútua
+  - monitor
+  referencias: []
+  autoria: []

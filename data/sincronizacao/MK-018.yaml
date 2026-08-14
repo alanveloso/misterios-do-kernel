@@ -1,0 +1,13 @@
+- id: MK-018
+  titulo: O Assento Fantasma
+  categoria: sincronizacao
+  enigma: Ela escolheu o assento e o reservou. Minutos depois, ele fez o mesmo. Ambos
+    acreditavam estar sozinhos.
+  solucao: 'Exemplo clássico de condição de corrida: dois processos (ou usuários)
+    reservam o mesmo recurso (assento), pois leram o mesmo valor antes de qualquer
+    um efetivar a mudança.'
+  conceitos:
+  - processo
+  - race condition
+  referencias: []
+  autoria: []

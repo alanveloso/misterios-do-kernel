@@ -1,0 +1,35 @@
+name: Validar e gerar
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Validar e compilar Typst
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar PyYAML
+        run: pip install pyyaml
+
+      - name: Instalar Typst
+        uses: typst-community/setup-typst@v4
+
+      - name: Validar, agregar e compilar
+        run: make build
+
+      - name: Resumo
+        if: always()
+        run: |
+          echo "## Build" >> "$GITHUB_STEP_SUMMARY"
+          echo "validate → build_data → typst compile" >> "$GITHUB_STEP_SUMMARY"

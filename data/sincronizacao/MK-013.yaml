@@ -1,0 +1,13 @@
+- id: MK-013
+  titulo: O Relógio Congelado
+  categoria: sincronizacao
+  enigma: Todos se moviam, menos ele, que esperava por uma permissão que nunca veio.
+  solucao: Processo ou thread presa em busy waiting, aguardando acesso ao semáforo
+    sem liberação.
+  conceitos:
+  - processo
+  - thread
+  - semáforo
+  - busy waiting
+  referencias: []
+  autoria: []

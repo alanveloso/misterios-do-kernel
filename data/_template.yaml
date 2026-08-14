@@ -1,0 +1,19 @@
+################################################################################
+# Template de história — Mistérios do Kernel
+#
+#   cp data/_template.yaml data/processos/MK-038.yaml
+#   python3 scripts/validate.py
+################################################################################
+
+id: MK-NNN
+titulo: "Título da História"
+categoria: processos
+enigma: >
+  Descrição narrativa do problema ou situação.
+solucao: >
+  Explicação técnica do conceito ilustrado.
+conceitos:
+  - termo1
+autoria:
+  - nome: "Nome Completo"
+referencias: []

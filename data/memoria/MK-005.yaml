@@ -1,0 +1,10 @@
+- id: MK-005
+  titulo: A Queda em Espiral
+  categoria: memoria
+  enigma: Chamou, chamou e chamou de novo, até que não havia mais onde cair.
+  solucao: Chamadas recursivas causaram stack overflow, travando o processo.
+  conceitos:
+  - processo
+  - stack overflow
+  referencias: []
+  autoria: []

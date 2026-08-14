@@ -1,0 +1,12 @@
+- id: MK-026
+  titulo: O Duplo Chamado
+  categoria: fundamentos
+  enigma: Um veio de dentro, outro de fora. Ambos pediam prioridade. Só um poderia
+    ser ouvido primeiro.
+  solucao: Contrasta interrupções (externas, como dispositivos) com traps (internas,
+    como chamadas de sistema), que disputam a atenção do núcleo.
+  conceitos:
+  - interrupção
+  - trap
+  referencias: []
+  autoria: []

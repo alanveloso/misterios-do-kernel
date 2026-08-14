@@ -1,0 +1,13 @@
+- id: MK-022
+  titulo: A Porta Secreta
+  categoria: fundamentos
+  enigma: Ele queria passar, mas a única entrada era protegida por um código que só
+    os iniciados conheciam.
+  solucao: Representa a chamada de sistema, uma instrução especial (trap) que permite
+    ao processo sair do modo usuário e entrar no modo kernel.
+  conceitos:
+  - processo
+  - chamada de sistema
+  - trap
+  referencias: []
+  autoria: []

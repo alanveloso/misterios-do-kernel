@@ -1,0 +1,11 @@
+- id: MK-021
+  titulo: O Processo que Nunca Entrava
+  categoria: sincronizacao
+  enigma: Ele esperava sua vez para acessar a sala compartilhada, mas outros sempre
+    chegavam primeiro.
+  solucao: 'Ilustra a violação da regra de progresso justo: um processo não pode esperar
+    indefinidamente para entrar em sua região crítica.'
+  conceitos:
+  - processo
+  referencias: []
+  autoria: []

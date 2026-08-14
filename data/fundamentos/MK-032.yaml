@@ -1,0 +1,11 @@
+- id: MK-032
+  titulo: O Julgador dos Recursos
+  categoria: fundamentos
+  enigma: Diante de muitos pedidos e poucos recursos, ele decidia quem teria acesso.
+    Nem sempre agradava a todos.
+  solucao: Ilustra o papel do SO como gerenciador de recursos, arbitrando o uso de
+    CPU, memória e dispositivos.
+  conceitos:
+  - gerenciador de recursos
+  referencias: []
+  autoria: []
