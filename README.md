@@ -55,6 +55,8 @@ make clean      # remove build/
 
 Cada história ocupa duas páginas: frente (enigma) e verso (solução). A pasta `build/` não vai para o Git.
 
+No GitHub, depois de um push ou PR em `main`, o PDF fica em **Actions** → o run que passou → **Artifacts** → `misterios-do-kernel`.
+
 ## Nova história
 
 ```bash

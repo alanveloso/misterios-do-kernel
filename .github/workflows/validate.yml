@@ -28,6 +28,12 @@ jobs:
       - name: Validar, agregar e compilar
         run: make build
 
+      - name: Disponibilizar PDF
+        uses: actions/upload-artifact@v4
+        with:
+          name: misterios-do-kernel
+          path: build/misterios-do-kernel.pdf
+
       - name: Resumo
         if: always()
         run: |
